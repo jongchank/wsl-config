@@ -9,4 +9,3 @@ sudo apt -y install valgrind
 sudo apt -y install cmake
 sudo apt -y install xutils-dev
 sudo sysctl -w kernel.core_pattern=core
-wget -P ~ https://github.com/cyrus-and/gdb-dashboard/raw/master/.gdbinit
