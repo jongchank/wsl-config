@@ -25,7 +25,7 @@ sudo install lazygit -D -t /usr/local/bin/
 #mkdir ~/.npm-global
 #npm config set prefix '~/.npm-global'
 #echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
-#source ~/.bashrc
 #npm install -g @anthropic-ai/claude-code
 #npm install -g @google/gemini-cli
 #npm install -g @openai/codex
+#echo "Please $source ~/.bashrc"
