@@ -8,4 +8,4 @@ echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
 npm install -g @anthropic-ai/claude-code
 npm install -g @google/gemini-cli
 npm install -g @openai/codex
-echo "Please $source ~/.bashrc"
+echo "Please source ~/.bashrc"
