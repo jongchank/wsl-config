@@ -9,6 +9,10 @@ sudo apt -y install gh
 sudo apt -y install valgrind 
 sudo apt -y install cmake
 sudo apt -y install xutils-dev
+sudo apt -y install python3-pip
+sudo apt -y install python3-venv
+sudo apt -y install python-is-python3
+sudo apt -y install eog
 
 # Enabling core 
 sudo sysctl -w kernel.core_pattern=core
