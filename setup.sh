@@ -13,6 +13,7 @@ sudo apt -y install python3-pip
 sudo apt -y install python3-venv
 sudo apt -y install python-is-python3
 sudo apt -y install eog
+sudo apt -y install curl
 
 # Enabling core 
 sudo sysctl -w kernel.core_pattern=core
